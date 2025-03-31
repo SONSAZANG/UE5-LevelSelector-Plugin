@@ -12,6 +12,13 @@ A UE plugin that adds a level selection dropdown to the editor toolbar and allow
 
 ---
 
+## 🔗 Available on Fab
+
+You can download this plugin directly from Fab Marketplace:  
+👉 [Level Selector on Fab](https://www.fab.com/ko/listings/118a0d2b-231b-458f-bb1c-3e504ca8bc4c)
+
+---
+
 ## 🧩 Features
 
 - **Level Selection Dropdown** in the toolbar
@@ -63,6 +70,13 @@ LevelSelector/
 에디터 툴바에 드롭다운으로 레벨을 선택하고, 버튼 클릭 한 번으로 해당 레벨을 실행할 수 있는 UE 플러그인입니다.
 
 ![Image](https://github.com/user-attachments/assets/a8ea5621-d5b4-4135-959f-730b0fe58846)
+
+---
+
+## 🔗 Fab에서 다운로드 가능
+
+이 플러그인은 Fab 마켓에서 바로 다운로드할 수 있습니다.  
+👉 [Fab에서 Level Selector 보기](https://www.fab.com/ko/listings/118a0d2b-231b-458f-bb1c-3e504ca8bc4c)
 
 ---
 
