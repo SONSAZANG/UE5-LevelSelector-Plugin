@@ -47,6 +47,13 @@ YourProject/Plugins/LevelSelector/
 Open `.uproject` and enable the plugin
 `Edit > Plugins > Installed > LevelSelector` → Check and restart editor
 
+### 3. Add Map to Required Path
+For the plugin to work properly, make sure your maps are placed in the following folder:
+/Game/Content/Maps/
+
+The plugin currently looks for maps only in this path, so please create the folder if it doesn’t exist and place your map files there.
+Custom map path configuration is not supported yet, but may be added in future updates.
+
 ---
 
 ## 📁 Basic Structure
@@ -104,6 +111,13 @@ YourProject/Plugins/LevelSelector/
 
 ### 2. `.uproject` 열고 플러그인 활성화  
 `Edit > Plugins > Installed > LevelSelector` → 체크 후 에디터 재시작
+
+### 3. 필수 경로에 맵 추가
+플러그인이 정상 작동하려면, 맵 파일이 아래 경로에 위치해야 합니다:
+/Game/Content/Maps/
+
+현재 플러그인은 해당 경로만 인식하도록 되어 있으므로, 경로가 존재하지 않는 경우 직접 생성하고 그 안에 맵 파일을 넣어주세요.
+아직 커스텀 맵 경로 설정은 지원되지 않지만, 추후 업데이트에서 추가될 수 있습니다.
 
 ---
 
